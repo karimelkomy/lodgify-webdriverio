@@ -40,3 +40,7 @@ yarn at
 ```
 
 This command will run the tests using the configuration specified in `wdio.conf.js`. The test results will be displayed in the console, and any failures or errors will be reported.
+
+## Video
+
+Video Recording for the test scenarios can be found [Here](https://drive.google.com/file/d/1SLBaETONI5m9Yv5sgySwEsVwLZkZskfk/view?usp=sharing)
